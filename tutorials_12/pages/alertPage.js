@@ -1,0 +1,25 @@
+ class AlertPage{
+
+    get result(){
+        return $('#result')
+    }
+
+    getResultantText(){
+        return this.result.getText()
+    }
+
+    getAlertButton(index){
+        return $(`ul li:nth-child(${index}) button`)
+    }
+
+    clickOnAlertButton(index){
+        this.getAlertButton(index).waitForDisplayed()
+        this.getAlertButton(index).click()
+    }
+
+    getConfirmationButton(index){
+
+    }
+    
+ }
+ module.exports = new AlertPage()
