@@ -48,4 +48,19 @@ describe(" Handling alert pop up", function () {
         browser.pause(2000);
     });
 
+    it(" Accept alert on Rediff Login Page", function () {
+
+        browser.url("https://mail.rediff.com/cgi-bin/login.cgi");
+        browser.maximizeWindow();
+        browser.pause(4000);
+        const signInBtn = $(`//input[@name='proceed']`)
+        signInBtn.waitForDisplayed()
+        signInBtn.click();
+        const text = browser.getAlertText()
+        console.log(text)
+        assert.equal('Please enter a valid user name',text)
+        browser.acceptAlert();
+        browser.pause(2000);
+    });
+
 });
