@@ -1,0 +1,58 @@
+{
+  "uid" : "a28d0d45707f8dd2",
+  "name" : " Accept alert on Rediff Login Page",
+  "fullName" : " Handling alert pop up. Accept alert on Rediff Login Page",
+  "historyId" : "10e9d7f795bb734251f91c3b9106e6b9",
+  "time" : {
+    "start" : 1601279219855,
+    "stop" : 1601279226577,
+    "duration" : 6722
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : " Handling alert pop up"
+  }, {
+    "name" : "testClass",
+    "value" : " Handling alert pop up"
+  }, {
+    "name" : "testMethod",
+    "value" : " Accept alert on Rediff Login Page"
+  }, {
+    "name" : "package",
+    "value" : " Handling alert pop up"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a28d0d45707f8dd2.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "b6bdabce90704024",
+  "name" : "click on product link",
+  "fullName" : "blaze page elements actions.click on product link",
+  "historyId" : "c4e33c1eba3482d1c144d4cc5c64ca3d",
+  "time" : {
+    "start" : 1601279190849,
+    "stop" : 1601279193716,
+    "duration" : 2867
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "blaze page elements actions"
+  }, {
+    "name" : "testClass",
+    "value" : "blaze page elements actions"
+  }, {
+    "name" : "testMethod",
+    "value" : "click on product link"
+  }, {
+    "name" : "package",
+    "value" : "blaze page elements actions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.121"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6bdabce90704024.json",
+  "parameterValues" : [ "chrome-85.0.4183.121" ]
+}

@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Sep 28 13:16:26 IST 2020","Mon Sep 28 13:16:40 IST 2020","13615",""," Handling alert pop up",""," Handling alert pop up"," Accept alert"," Accept alert",""
+"passed","Mon Sep 28 13:16:26 IST 2020","Mon Sep 28 13:16:29 IST 2020","2918","","blaze page elements actions","","blaze page elements actions","check page url","check page url",""
+"passed","Mon Sep 28 13:16:59 IST 2020","Mon Sep 28 13:17:06 IST 2020","6722",""," Handling alert pop up",""," Handling alert pop up"," Accept alert on Rediff Login Page"," Accept alert on Rediff Login Page",""
+"passed","Mon Sep 28 13:16:29 IST 2020","Mon Sep 28 13:16:30 IST 2020","1100","","blaze page elements actions","","blaze page elements actions","verify main header text","verify main header text",""
+"passed","Mon Sep 28 13:16:30 IST 2020","Mon Sep 28 13:16:33 IST 2020","2867","","blaze page elements actions","","blaze page elements actions","click on product link","click on product link",""
+"passed","Mon Sep 28 13:16:40 IST 2020","Mon Sep 28 13:16:50 IST 2020","9721",""," Handling alert pop up",""," Handling alert pop up"," Dismiss alert"," Dismiss alert",""
+"passed","Mon Sep 28 13:16:50 IST 2020","Mon Sep 28 13:16:59 IST 2020","9691",""," Handling alert pop up",""," Handling alert pop up"," Enter text in alert and accept"," Enter text in alert and accept",""

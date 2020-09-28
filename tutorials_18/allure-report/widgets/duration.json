@@ -1,0 +1,71 @@
+[ {
+  "uid" : "2ebf7459886c5d3",
+  "name" : " Accept alert",
+  "time" : {
+    "start" : 1601279186826,
+    "stop" : 1601279200441,
+    "duration" : 13615
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2945af57fe48e6e",
+  "name" : "check page url",
+  "time" : {
+    "start" : 1601279186830,
+    "stop" : 1601279189748,
+    "duration" : 2918
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a28d0d45707f8dd2",
+  "name" : " Accept alert on Rediff Login Page",
+  "time" : {
+    "start" : 1601279219855,
+    "stop" : 1601279226577,
+    "duration" : 6722
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d7549d2812ab7a8",
+  "name" : "verify main header text",
+  "time" : {
+    "start" : 1601279189749,
+    "stop" : 1601279190849,
+    "duration" : 1100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6bdabce90704024",
+  "name" : "click on product link",
+  "time" : {
+    "start" : 1601279190849,
+    "stop" : 1601279193716,
+    "duration" : 2867
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42a1abc316d891f2",
+  "name" : " Dismiss alert",
+  "time" : {
+    "start" : 1601279200442,
+    "stop" : 1601279210163,
+    "duration" : 9721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d58bf8ed5fdaf503",
+  "name" : " Enter text in alert and accept",
+  "time" : {
+    "start" : 1601279210164,
+    "stop" : 1601279219855,
+    "duration" : 9691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
