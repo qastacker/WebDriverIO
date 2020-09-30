@@ -1,6 +1,8 @@
 # WebDriverIO
 This file comprises a test script tutorials for automating in WebdriverIO
+
 All this tutorials are all based from Naveen Automation Labs
+
 1) To start, we have to know how to initially check if npm and node is intalled or not
 
   i) Install Node JS
